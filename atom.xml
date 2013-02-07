@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Zach's Blog, Powered by Octopress]]></title>
+  <title><![CDATA[Zimoo's Blog, Powered by Octopress]]></title>
   <link href="http://zimoo.github.com/blog/atom.xml" rel="self"/>
   <link href="http://zimoo.github.com/blog/"/>
-  <updated>2013-02-07T00:06:34-08:00</updated>
+  <updated>2013-02-07T00:09:06-08:00</updated>
   <id>http://zimoo.github.com/blog/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Zach Moore]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
